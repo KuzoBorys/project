@@ -1,3 +1,0 @@
-[submodule "otherproject/javascript"]
-	path = otherproject/javascript
-	url = https://github.com/uprock/javascript.git
